@@ -4,6 +4,7 @@ class stig::install {
     ensure => 'installed',
   }
   
+  
   package {'openscap-utils':
     ensure => 'installed'
   }
