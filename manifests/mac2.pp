@@ -1,0 +1,4 @@
+class stig::mac2 {
+  
+  
+}

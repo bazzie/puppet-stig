@@ -10,10 +10,11 @@
 #
 # Sample Usage:
 #
-class stig {
-
-
-
-
+class stig (
+  
+  $maclevel = $stig::params::maclevel,
+  $confidence = $stig::params::confidence,
+  
+){
 
 }
